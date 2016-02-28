@@ -1,0 +1,30 @@
+Variables in the Tidy Data Set
+==============================
+
+Subject
+-------
+   The subject who performed the activity. Its range is from 1 to 30.
+
+Activity.Name
+-------------
+   Descriptive activity names including:
+      WALKING
+
+      WALKING_UPSTAIRS
+
+      WALKING_DOWNSTAIRS
+
+      SITTING
+
+      STANDING
+
+      LAYING
+
+
+variable
+--------
+   Descriptive variable names from features.txt
+
+average
+-------
+   The average of each variable for each activity and each subject.
